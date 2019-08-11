@@ -1,11 +1,16 @@
 _repo: The-Philosophy-of-Beards-A-Lecture-Physiological-Artistic-Historical_60009
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60009-h/images/cover.jpg
 creator:
   author:
     agent_name: Gowing, Thomas S.
     gutenberg_agent_id: '50731'
     url: http://www.gutenberg.org/2009/agents/50731
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60009#The-Philosophy-of-Beards-A-Lecture-Physiological-Artistic-Historical
 gutenberg_issued: '2019-07-29'
 gutenberg_type: Text
 identifiers:
